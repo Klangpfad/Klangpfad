@@ -1,4 +1,4 @@
-# -Klangpfad
+# Klangpfad
 <p align="center">
   <img src="gina.png" width="220" alt="Gina – Guardian of the Quiet Room">
 </p>
