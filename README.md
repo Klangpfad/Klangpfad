@@ -7,3 +7,9 @@
 <p align="center">
 Tom & Gina
 </p>
+
+```text
+🟢 system online
+runlevel: 5
+assistant: gina
+mode: quiet systems
