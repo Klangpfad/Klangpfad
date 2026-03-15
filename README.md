@@ -1,5 +1,5 @@
 <p align="center">
-<img src="gina.png" width="420">
+<img src="gina.png" width="900">
 </p>
 
 <h2 align="center">runlevel.eth</h2>
