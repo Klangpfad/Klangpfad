@@ -1,9 +1,9 @@
 <p align="center">
-<img src="gina.png" width="420" alt="Gina – Guardian of the Quiet Room">
+<img src="gina.png" width="420">
 </p>
 
 <h2 align="center">runlevel.eth</h2>
-<br>
 
-Tom & Gina
+<p align="center">
+Tom & Gina · Guardian of the Quiet Room
 </p>
